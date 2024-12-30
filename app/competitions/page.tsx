@@ -6,7 +6,7 @@ const PageCompetitions = () => {
   const readingProgressData = [
     { x: "اليوم 1", y: 20 },
     { x: "اليوم 2", y: 35 },
-    { x: "اليوم 3", y: 50 },
+    { x: "اليوم 3ا", y: 50 },
     { x: "اليوم 4", y: 30 },
     { x: "اليوم 5", y: 40 },
   ];
